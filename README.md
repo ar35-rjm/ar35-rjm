@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats (Tokyo Night)
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ar35-rjm">
