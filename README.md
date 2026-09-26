@@ -26,5 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar35-rjm&show_icons=true&locale=en" alt="ar35-rjm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar35-rjm&" alt="ar35-rjm" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar35-rjm&theme=tokyonight&timezone=Africa/Luanda" alt="ar35-rjm" /></p>
