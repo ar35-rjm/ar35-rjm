@@ -3,7 +3,7 @@
   <p><b>Fullstack Developer (Backend Focused) | Cybersecurity & DevOps Enthusiast</b></p>
 
   <p align="center">
-    Building resilient architectures, automating infrastructure, and exploring system security and low-level engineering. I feel right at home in the terminal — especially managing and optimizing my Arch Linux ecosystem.
+    Building resilient architectures, automating infrastructure, and exploring system security and low-level engineering. I feel right at home in the terminal — especially managing my Arch Linux.
   </p>
 </div>
 
