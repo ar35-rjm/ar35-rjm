@@ -57,9 +57,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar35-rjm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Most Used Languages" height="195" />
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar35-rjm&show_icons=true&locale=en&layout=compact" alt="ar35-rjm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ar35-rjm&show_icons=true&locale=en" alt="ar35-rjm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar35-rjm&theme=tokyonight&timezone=Africa/Luanda" alt="ar35-rjm" /></p>
