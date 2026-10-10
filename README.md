@@ -10,8 +10,6 @@
 ---
 - 🌱 I’m currently learning **java for android development**
 
-- 👨‍💻 All of my projects are available at [(need to fill)]((need to fill))
-
 - 💬 Ask me about **nest, laravel, cybersec**
 
 - 📫 How to reach me **rogerjosemaria783@gmail.com**
