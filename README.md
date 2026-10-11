@@ -44,6 +44,7 @@
 ![Cybersec](https://img.shields.io/badge/Cybersecurity-1A1B26?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=16161E)
 
 ---
+<!-- need to add the projects here (mine) -->
 
 ### 📊 GitHub Stats (Tokyo Night)
 
