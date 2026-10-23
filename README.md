@@ -52,6 +52,9 @@
   <a href="https://github.com/ar35-rjm">
     <img src="https://github-readme-stats.vercel.app/api?username=ar35-rjm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="GitHub Stats" height="195" />
   </a>
+</p>
+</br>
+<p align="center">
   <a href="https://github.com/ar35-rjm">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar35-rjm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26" alt="Most Used Languages" height="195" />
   </a>
