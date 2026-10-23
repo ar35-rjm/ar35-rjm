@@ -10,7 +10,7 @@
 ---
 - 🌱 I’m currently learning **java for android development**
 
-- 💬 Ask me about **nest, laravel, cybersec**
+- 💬 Ask me about **nest, cybersec**
 
 - 📫 How to reach me **rogerjosemaria783@gmail.com**
 
@@ -46,7 +46,7 @@
 ---
 <!-- need to add the projects here (mine) -->
 
-### 📊 GitHub Stats (Tokyo Night)
+### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/ar35-rjm">
